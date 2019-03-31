@@ -5,7 +5,7 @@ Main github page for tmaxsoft-us
 
 |Name | description | URL | 
 |----|----|----|
-| ofasm | Openframe Assembler Compiler & VM | https://tmaxsoft-us.github.io/ofasm |
+| ofasm | Openframe Assembler & VM | https://tmaxsoft-us.github.io/ofasm |
 
 ## Migration
 
