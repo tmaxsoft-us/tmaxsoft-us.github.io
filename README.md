@@ -3,22 +3,12 @@ Main github page for tmaxsoft-us
 
 ## Compiler
 
-|Name | description | URL | 
-|----|----|----|
-| ofasm | Openframe Assembler & VM | https://tmaxsoft-us.github.io/ofasm |
+[ofasm](https://tmaxsoft-us.github.io/ofasm): Openframe assembler & VM
 
 ## Migration
 
-|Name | description | URL | 
-|----|----|----|
-| dsmigin | Dataset migration from Mainframe to Openframe | https://tmaxsoft-us.github.io/dsmigin |
+[dsmigin](https://tmaxsoft-us.github.io/dsmigin): Migration from Mainframe to Openframe
 
+## Errors
 
-## Openframe Common
-
-|Name | description | URL | 
-|----|----|----|
-| oferror | Openframe error code with real examples | https://tmaxsoft-us.github.io/oferror |
-
-
-
+[oferror](https://tmaxsoft-us.github.io/oferror): Openframe error codes with real examples
